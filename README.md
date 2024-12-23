@@ -3,7 +3,7 @@
 ## Url
 this url catppuccin for dmenu
 
-https://github.com/catppuccin/dmenu/tree/main/assets
+https://github.com/catppuccin/dmenu/tree/main
 
 ## Test
 test launch dmenu with nix run
